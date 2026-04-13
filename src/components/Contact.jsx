@@ -12,7 +12,7 @@ function Contact() {
                   <div className="form-group col-12"><input required placeholder="Enter Email *" id="email" className="form-control" name="email" type="email" /></div>
                   <div className="form-group col-12"><input placeholder="Enter Subject" id="subject" className="form-control" name="subject" type="text" /></div>
                   <div className="form-group col-lg-12"><textarea required placeholder="Message *" id="description" className="form-control" name="message" rows="5" /></div>
-                  <div className="col-lg-12"><button type="submit" title="Submit Your Message!" className="btn btn-default rounded-0 btn-aylen" id="submitButton" name="submit" value="Submit">Submit</button></div>
+                  <div className="col-lg-12"><button disabled type="submit" title="Submit Your Message!" className="btn btn-default rounded-0 btn-aylen" id="submitButton" name="submit" value="Submit">Submit</button></div>
                   <div className="col-lg-12 text-center"><div id="alert-msg" className="alert-msg text-center" /></div>
                 </div>
               </form>
