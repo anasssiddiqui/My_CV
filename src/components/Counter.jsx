@@ -1,9 +1,11 @@
 const counters = [
-  ["flaticon-briefing", "800", "Projects Completed", "+"],
-  ["flaticon-laugh", "524", "Happy Clients", ""],
-  ["flaticon-coffee-cup", "654", "Cup Of Tea", ""],
-  ["flaticon-trophy", "225", "Awards Won", ""],
+  ["ti-check-box", "100", "Projects Completed", "+"],
+  ["ti-face-smile", "50", "Happy Clients", "+"],
+  ["ti-time", "5", "Years Of Experience", "+"],
+  ["ti-desktop", "1", "Million Lines of Code Written", "+"],
 ];
+
+
 
 function Counter() {
   return (

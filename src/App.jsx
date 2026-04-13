@@ -147,7 +147,7 @@ function App() {
         <Counter />
         <Experience />
         <Testimonial />
-        <Blog />
+        {/* <Blog /> */}
         <Contact />
         <Footer />
       </div>
