@@ -50,6 +50,7 @@ function App() {
       }
 
       // Owl carousel
+
       $(".carousel_slider").each(function initOwl() {
         const $carousel = $(this);
         if ($carousel.hasClass("owl-loaded") || !$carousel.owlCarousel) return;
