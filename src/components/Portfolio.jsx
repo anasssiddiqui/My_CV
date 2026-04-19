@@ -3,7 +3,7 @@ const portfolioItems = [
     classes: "software Engineer",
     image: "portfolio_item_small1.png",
     popupImages: ["portfolio_item1.jpg"],
-    title: "Devnagri AI",
+    title: "Devnagri AI - Sovereign Language Infrastructure Layer",
     category: "AI Translation",
     link: "https://devnagri.com/"
   },
@@ -59,7 +59,7 @@ function Portfolio() {
         <div className="portfolio-header">
           <h2 className="portfolio-title">Trusted Tools & Integrations</h2>
           <p className="portfolio-subtitle">
-            Delivering robust platforms with modern frameworks, seamless integrations, 
+            Delivering robust platforms with modern frameworks, seamless integrations,
             and resilient operations for high-demand environments
           </p>
         </div>
@@ -67,8 +67,8 @@ function Portfolio() {
         {/* Portfolio Grid */}
         <div className="portfolio-grid">
           {portfolioItems.map((item) => (
-            <a 
-              href={item.link} 
+            <a
+              href={item.link}
               className="portfolio-item"
               key={item.title}
               target="_blank"
@@ -76,8 +76,8 @@ function Portfolio() {
             >
               <div className="portfolio-card">
                 <div className="logo-container">
-                  <img 
-                    src={`assets/images/${item.image}`} 
+                  <img
+                    src={`assets/images/${item.image}`}
                     alt={item.title}
                     className="logo-image"
                   />

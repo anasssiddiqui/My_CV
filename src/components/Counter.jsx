@@ -2,7 +2,7 @@ const counters = [
   ["ti-check-box", "100", "Projects Completed", "+"],
   ["ti-face-smile", "50", "Happy Clients", "+"],
   ["ti-time", "5", "Years Of Experience", "+"],
-  ["ti-desktop", "1", "Million Lines of Code Written", "+"],
+  ["ti-desktop", "2", "Million Lines of Code Written", "+"],
 ];
 
 

@@ -1,9 +1,9 @@
 const testimonials = [
   ["ankhil-Image.jpeg", "Akhil Mudgal", "Engineering Leader", "I had the opportunity to work with Anas Siddiqui and found him a capable, dependable Backend Engineer with strong Node.js expertise, building scalable systems, handling complex integrations, and supporting teams."],
 
-  ["rishav.jpeg", "Rishav Devgan", "Engineering Leader", "A reliable and cooperative professional with strong skills in backend technologies, experienced in building efficient and dependable solutions, and working well with teams effectively collaboratively efficiently and consistently."],
+  ["rishav.jpeg", "Rishav Devgan", "Engineering Leader", "A reliable and cooperative professional with strong skills in backend technologies, experienced in building efficient and dependable solutions, and working well with teams effectively collaboratively efficiently."],
 
-  ["mohit.jpeg", "Mohit Kumar", "Engineering Leader", "I’ve worked with Anas and had a great collaboration experience. As a frontend engineer, I appreciated their smooth backend integration, clear communication, and system understanding. They’re dependable, proactive and reliable."],
+  ["mohit.jpeg", "Mohit Kumar", "Engineering Leader", "I’ve worked with Anas and had a great collaboration experience. As a frontend engineer, I appreciated their smooth backend integration, clear communication, and system understanding."],
 
   ["raghvendra.jpeg", "Raghvendra Pandey", "QA Engineer", "I’ve worked closely with Anas in testing and had a great experience. He writes clean code, considers edge cases, resolves issues quickly, welcomes feedback positively, and is a reliable, quality-focused software engineer."]
 ];

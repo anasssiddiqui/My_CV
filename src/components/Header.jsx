@@ -65,7 +65,7 @@ function Header() {
               <ul className="contact_info list_none">
                 <li><span className="ti-mobile" /><p>+ 91 8816 9548 63</p></li>
                 <li><span className="ti-email" /><a href="mailto:info@sitename.com">anassiddiqui544@gmail.com</a></li>
-                <li><span className="ti-location-pin" /><address>#85 Gandhi Nagar Colony, Yamunanagar</address></li>
+                <li><span className="ti-location-pin" /><address>New Delhi, India</address></li>
               </ul>
               <ul className="list_none social_icons">
                 {socialLinks.map(([cls, icon]) => (
